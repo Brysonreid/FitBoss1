@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">FitBoss1</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="button_send">Send</string>
+    <string name="Send_boss">Boss</string>
+    <string name="Send_Gainz">Gainz</string>
+    <string name="Send_items">treasury</string>
+    <string name="Show_Level">Level:</string>
+    <string name="Show_Health">Health:</string>
+    <string name="Show_Skill1">Upper Body:</string>
+    <string name="Show_Skill2">Lower Body:</string>
+    <string name="Show_Skill3">Core:</string>
+    <string name="Show_Skill4">Endurance:</string>
+    <string name="Show_strength">Strength:</string>
+    <string name="character_image">character image</string>
+</resources>
